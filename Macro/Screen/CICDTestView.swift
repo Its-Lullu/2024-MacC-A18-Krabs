@@ -9,7 +9,7 @@ import SwiftUI
 
 struct CICDTestView: View {
     var body: some View {
-        Text("지나가 테스트중입니다.")
+        Test("workflow에 사용될 file 경로를 수정해보았습니다.")
     }
 }
 
