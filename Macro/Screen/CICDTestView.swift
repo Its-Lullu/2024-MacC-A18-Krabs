@@ -9,7 +9,7 @@ import SwiftUI
 
 struct CICDTestView: View {
     var body: some View {
-        Text("결제 정보 업데이트 후 테스트")
+        Text("build OS 변경")
     }
 }
 
