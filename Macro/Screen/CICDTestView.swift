@@ -9,7 +9,7 @@ import SwiftUI
 
 struct CICDTestView: View {
     var body: some View {
-        Text("build OS 변경")
+        Text("run OS 변경 macos-latest")
     }
 }
 
